@@ -1,3 +1,3 @@
 [submodule "pty-replay-web"]
 	path = pty-replay-web
-	url = https://github.com/scripe2022/pty-replay-web
+	url = https://github.com/cse30-pl-workspace/pty-replay-web
